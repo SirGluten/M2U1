@@ -1,0 +1,50 @@
+h3{  
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+h1{
+    text-decoration-line: underline;
+    /* nuevo */
+    text-shadow: 3px 3px 20px rgba(0, 0, 0, 1);
+    /*  */
+    
+}
+
+.lista{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    /* nuevo */
+    border-radius:10px 10px 10px 10px;
+    /*  */
+   }
+
+   .foto {
+    height: 600px;
+    width: 512px;
+   }
+
+   a:hover {
+    color: orange;
+    text-transform: uppercase;
+  }
+
+  /* nuevo */
+  body{
+    background-image: radial-gradient(circle, rgba(255, 162, 0, 0.68) 3%, rgba(255, 0, 230, 0.64) 100%);
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;;
+  }
+  /*  */
+
+  /* nuevo */
+.Perfil{
+  width: 30%;
+  text-align: justify;
+}
+/*  */
